@@ -11,7 +11,7 @@ Goal: Create a teleoperated robotic arm with a PS4 controller
 
 ## Description of Arm (V1)
 - 5 DOF (base rotation, shoulder pitch, elbow pitch, wrist pitch, gripper open/close)
-- Reach: ~ 350 m
+- Reach: ~ 350 mm
 - Payload: 100-200 g (phone-sized object as a benchmark)
 - Budget: Minimum of $100, target of $250, stretch of $400
 - Material: PETG filament
